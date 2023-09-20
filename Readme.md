@@ -1,5 +1,11 @@
 #Gigya Test Theme For Magento 2
 ##Example theme for implementing Gigya modules layout overrides, hooks etc. 
+
+
+
+Test Git Practice
+
+
 ###Inherits from Magento Luma theme
 
 ###Installation
